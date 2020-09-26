@@ -1,0 +1,130 @@
+.shop-header {
+    background: linear-gradient(to right, #0b486b, #f56217); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+
+.shop-background {
+    background: linear-gradient(to right, #0b486b, #f56217); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.Shop-prices {
+    color: #e0dc4eba!important;
+}
+
+
+.mo-color {
+    color: #c9d4de!important
+}
+
+
+.shabi {
+    color: #343a40!important;
+}
+
+.block-title1 {
+    color: #fff;
+    flex: 1 1 auto;
+    min-height: 1.75rem;
+    margin: 0;
+    font-size: 1.125rem;
+    font-weight: 900;
+    line-height: 1.75;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #e6e6e6;
+    min-height: 1.562rem;
+    min-width: 1.562rem;
+    border: .062rem solid #e0e0e0;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #f7f7f7;
+    border: .062rem solid #efefef;
+}
+::selection {
+    background: #ddd;
+    color: #000;
+    text-shadow: none;
+}
+
+::-webkit-scrollbar {
+    width: .625rem;
+    height: .4rem;
+    overflow: auto;
+}
+
+.text-dark {
+    font-family: 'Arizonia', cursive;
+    font-size: 3rem!important;
+}
+
+.hjjg {
+    color: #000000;
+}
+
+.v2board-plan-features {
+    font-size: 15px!important;
+    font-weight: 600!important;
+}
+
+.v2board-plan-features>li:before {
+    color: #2a2e36!important;
+}
+
+/* 解锁 */
+.v2board-plan-features> .js:before {
+    content: "\f3c1";
+}
+
+/* 信息 */
+.v2board-plan-features> .xx:before {
+    content: "\F05A";
+}
+
+/* 不支持 */
+.v2board-plan-features> .bzc:before {
+    content: "\f057";
+}
+
+/* 警告 */
+.v2board-plan-features> .jg:before {
+    content: "\f06a";
+}
+
+/* 流量重置 */
+.v2board-plan-features> .cz:before {
+    content: "\f2f1";
+}
+
+/* 速度 */
+.v2board-plan-features> .sd:before {
+    content: "\f3fd";
+}
+
+/* 节点 */
+.v2board-plan-features> .jd:before {
+    content: "\f0e8";
+}
+
+/* 流量 */
+.v2board-plan-features> .ll:before {
+    content: "\f1c0";
+}
+
+/* 工单 */
+.v2board-plan-features> .gd:before {
+    content: "\f3ff";
+}
+
+/* 设备 */
+.v2board-plan-features> .phone:before {
+    content: "\f3cd";
+}
+
+/* 苹果 */
+.v2board-plan-features> .iphone:before {
+    content: "\f5d1";
+}
+
+
